@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    max-height: 100vh;
+    background-image: url('img/istockphoto-1081339062-1024x1024.jpg');    
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    text-align: center;
+}
+
+.title{
+    margin-top: 75px;
+}
+
+.timerContainer{
+    display: flex;
+    margin: 0 200px;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+.timerContainer span{
+    font-size: 36px;
+}
+
+
+.big-text{
+    font-size: 40px;
+    font-weight: 700;
+}
