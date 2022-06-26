@@ -13,21 +13,23 @@ body{
 }
 
 .title{
-    margin-top: 75px;
+    margin-top: 100px;
 }
 
 .timerContainer{
     display: flex;
-    margin: 0 200px;
-    margin-top: 100px;
+    margin: 0 350px;
+    margin-top: 150px;
     justify-content: space-between;
 }
+
 .timerContainer span{
     font-size: 36px;
 }
 
-
 .big-text{
-    font-size: 40px;
-    font-weight: 700;
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 50px;
+    font-weight: 900;
 }
